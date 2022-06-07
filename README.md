@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @IngridLaureano
 - 👀 I’m interested in Front-end 
-- 🌱 I’m currently learning CSS and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Estudante de Analise e desenvolvimento de Sistemas pelo Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Sul - IFRS
+
 
 <!---
 IngridLaureano/IngridLaureano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
