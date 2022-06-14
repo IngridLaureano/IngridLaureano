@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IngridLaureano
-- 👀 I’m interested in Front-end 
+- 👀 I’m interested in ..
 - 📫 Estudante de Analise e desenvolvimento de Sistemas pelo Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Sul - IFRS
 
 
